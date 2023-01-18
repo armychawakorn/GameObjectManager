@@ -1,2 +1,2 @@
-# GameObjectManager
+# GameObjectManager Libraries for Unity
  
